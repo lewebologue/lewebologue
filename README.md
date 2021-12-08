@@ -29,6 +29,6 @@
 
 <div>
     <a href="https://github.com/Arturmart1">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturmart1&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
+        <img align="middle"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturmart1&layout=defaut&theme=highcontrast&langs_count=10&bg_color=273849&title_color=41B783&icon_color=41B783&&text_color=ffffff&border_color=ffffff&border_radius=25px"/>
     </a>
 </div>
