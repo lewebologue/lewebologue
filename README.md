@@ -1,7 +1,7 @@
 ## Bonjour, je suis Ludovic 👋
 ####
 - 📚 Étudiant en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
-- 📍 Montauban, Occitanie FR / Ouvert au télétravail
+- 📍 Montauban, Toulouse, France / Ouvert au télétravail
 - ➡️ Disponible : 9 mars 2022 - CDI ou CDD
 
 
