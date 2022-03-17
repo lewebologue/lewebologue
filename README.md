@@ -13,7 +13,7 @@
 
 <br>
 
-## Github, Langages & Technologies
+## Technologies
 <br>
 <div>
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
