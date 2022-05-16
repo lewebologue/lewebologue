@@ -1,4 +1,4 @@
-Hi 👋 My name is Ludovic Thuard
+Bonjour 👋 Je suis Ludovic Thuard
 ===============================
 
 Développeur Node.js/Vue.js
@@ -23,6 +23,7 @@ J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconve
 <br>
 
 ## Technologies
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -48,6 +49,6 @@ J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconve
 
 <a href="https://github.com/lewebologue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewebologue&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Me soutenir
 
 <a href="https://www.buymeacoffee.com/lewebologue"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
