@@ -10,13 +10,13 @@ J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconve
 * 📚 Diplômé en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
 * 🌍 Montauban, Toulouse / Ouvert au télétravail
 * ➡️ Disponible Immédiatement - CDI, CDD, Freelance
-* 🚀 Je travaille actuellement sur [Ce site web:](http://lewebologue.github.io/Preview/)
+* 🚀 Je travaille actuellement sur [Ce site](http://lewebologue.github.io/Preview/)
 * 🧠 Je continue à me former sur mes technologies de prédilection
-* 🖥️ See my portfolio at [Mon Portfolio](http://ludovicthuard.fr)
-* ✉️ You can contact me at [thuard.ludovic@gmail.com](mailto:thuard.ludovic@gmail.com)
+* 🖥️ Retrouvez mon travail sur [Mon Portfolio](http://ludovicthuard.fr)
+* ✉️ Vous pouvez me contacter sur [thuard.ludovic@gmail.com](mailto:thuard.ludovic@gmail.com)
 
 
-#### Me contacter
+## Me contacter
 
 <p align="left"> <a href="https://www.codepen.io/arturmart1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Ludovic#2115" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lewebologue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ludovic-thuard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -39,7 +39,7 @@ J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconve
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
@@ -49,6 +49,6 @@ J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconve
 
 <a href="https://github.com/lewebologue" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewebologue&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Me soutenir
+## Me soutenir
 
 <a href="https://www.buymeacoffee.com/lewebologue"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
