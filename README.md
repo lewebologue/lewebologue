@@ -9,8 +9,7 @@ J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconve
 
 * 📚 Diplômé en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
 * 🌍 Montauban, Toulouse / Ouvert au télétravail
-* ➡️ Disponible Immédiatement - CDI, CDD, Freelance
-* 🚀 Je travaille actuellement sur [Ce site](http://lewebologue.github.io/Preview/)
+* 🚀 Je travaille actuellement pour [Sogeti](https://www.fr.sogeti.com/)
 * 🧠 Je continue à me former sur mes technologies de prédilection
 * 🖥️ Retrouvez mon travail sur [Mon Portfolio](http://ludovicthuard.fr)
 * ✉️ Vous pouvez me contacter sur [thuard.ludovic@gmail.com](mailto:thuard.ludovic@gmail.com)
