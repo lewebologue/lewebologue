@@ -1,14 +1,14 @@
 Bonjour 👋 Je suis Ludovic Thuard
 ===============================
 
-Développeur Node.js/Vue.js
+Développeur fullstack JS
 --------------------------
 
 J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconversion professionnelle, j'ai appris à développer des sites web au travers de projets professionnalisants.
 --------------------------
 
 * 📚 Diplômé en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
-* 🌍 Montauban, Toulouse / Ouvert au télétravail
+* 🌍 Montauban, Toulouse
 * 🚀 Je travaille actuellement pour [Sogeti](https://www.fr.sogeti.com/)
 * 🧠 Je continue à me former sur mes technologies de prédilection
 * 🖥️ Retrouvez mon travail sur [Mon Portfolio](http://ludovicthuard.fr)
