@@ -1,10 +1,11 @@
 Bonjour 👋 Je suis Ludovic Thuard
 ===============================
 
-Développeur fullstack JS/TS
+Développeur fullstack Angular / Node.js
 --------------------------
 
-J'ai suivi le parcours développeur web chez OpenClassrooms suite à une reconversion professionnelle, j'ai appris à développer des sites web au travers de projets professionnalisants.
+Après une reconversion professionnelle, j'ai suivi le parcours de formation Développeur Web d'OpenClassrooms. Grâce à des projets professionnels concrets, j'ai acquis les compétences pour développer des sites web de manière autonome.
+
 --------------------------
 
 * 📚 Diplômé en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
