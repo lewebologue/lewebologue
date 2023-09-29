@@ -51,3 +51,7 @@ Après une reconversion professionnelle, j'ai suivi le parcours de formation Dé
 ## Me soutenir
 
 <a href="https://www.buymeacoffee.com/lewebologue"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+## Licence
+
+<p align="center"> Do what you want with my code, just don’t make it boring.</p>
