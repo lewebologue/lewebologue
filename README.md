@@ -1,16 +1,18 @@
 Bonjour 👋 Je suis Ludovic Thuard
 ===============================
 
-Développeur fullstack Angular / Node.js
+Développeur fullstack Node.js / Angular / Vue
 --------------------------
 
 Après une reconversion professionnelle, j'ai suivi le parcours de formation Développeur Web d'OpenClassrooms. Grâce à des projets professionnels concrets, j'ai acquis les compétences pour développer des sites web de manière autonome.
+Je suis aujourd'hui développeur fullstack chez Sogeti, groupe Capgemini. J'évolue sur des mission de développement d'application web en mode Agile (SCRUM).
 
 --------------------------
 
 * 📚 Diplômé en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
 * 🌍 Montauban, Toulouse
 * 🚀 Je travaille actuellement pour [Sogeti](https://www.fr.sogeti.com/)
+* 🤸 Certifié Développeur Agile
 * 🧠 Je continue à me former sur mes technologies de prédilection
 * 🖥️ Retrouvez mon travail sur [Mon Portfolio](http://ludovicthuard.fr)
 * ✉️ Vous pouvez me contacter sur [thuard.ludovic@gmail.com](mailto:thuard.ludovic@gmail.com)
