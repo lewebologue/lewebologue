@@ -14,6 +14,7 @@ Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation.
 * 🌍 Montauban, Toulouse
 * 🚀 Je travaille actuellement pour [Sogeti](https://www.fr.sogeti.com/)
 * 🤸 Certifié Développeur Agile
+* 🍃 Certifié SI associate MongoDB
 * 🧠 Je continue à me former sur mes technologies de prédilection
 * 🖥️ Retrouvez mon travail sur [Mon Portfolio](http://ludovicthuard.fr)
 * ✉️ Vous pouvez me contacter sur [thuard.ludovic@gmail.com](mailto:thuard.ludovic@gmail.com)
