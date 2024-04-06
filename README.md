@@ -1,7 +1,7 @@
 Bonjour 👋 Je suis Ludovic Thuard
 ===============================
 
-Développeur fullstack Node.js / Angular / Vue
+Développeur Node.js / Angular
 --------------------------
 
 C’est une bonne situation ça développeur?
