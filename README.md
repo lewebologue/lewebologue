@@ -1,7 +1,11 @@
+<div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxjMXpjajhvaWRsbmt4dWh2d252Nm55cjU1anhqcThiMGVrcHJpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" align="center" style="width: 100%" />
+</div>  
+
 Bonjour 👋 Je suis Ludovic Thuard
 ===============================
 
-Développeur Node.js / Angular
+Développeur Node.js / Angular / Python
 --------------------------
 
 C’est une bonne situation ça développeur?
@@ -16,7 +20,7 @@ Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation.
 * 🤸 Certifié Développeur Agile
 * 🍃 Certifié SI associate MongoDB
 * 🧠 Je continue à me former sur mes technologies de prédilection
-* 🖥️ Retrouvez mon travail sur [Mon Portfolio](http://ludovicthuard.fr)
+* 🖥️ Retrouvez mon travail sur [ICI](https://github.com/lewebologue?tab=repositories)
 * ✉️ Vous pouvez me contacter sur [thuard.ludovic@gmail.com](mailto:thuard.ludovic@gmail.com)
 
 
@@ -28,7 +32,7 @@ Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation.
 
 ## Technologies
 
-<p align="left">
+<p align="center" justify="space-between">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -37,6 +41,7 @@ Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation.
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="36" height="36" alt="Angular" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="36" height="36" alt="Figma" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" width="36" height="36" alt="NestJS" /></a>  
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
