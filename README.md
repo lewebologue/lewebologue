@@ -16,7 +16,6 @@ Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation.
 
 * 📚 Diplômé en développement web (Bac +2) chez <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>
 * 🌍 Montauban, Toulouse
-* 🚀 Je travaille actuellement pour [Sogeti](https://www.fr.sogeti.com/)
 * 🤸 Certifié Développeur Agile
 * 🍃 Certifié SI associate MongoDB
 * 🧠 Je continue à me former sur mes technologies de prédilection
